@@ -1,4 +1,5 @@
-# test_google_sheets_connection.py
+
+# scripts/test_google_sheets_connection.py
 from src.google_sheets import get_sheet_data
 
 data = get_sheet_data()

@@ -1,0 +1,483 @@
+Data fetched successfully:
+
+Base Set List:
+{'Name': 'Alakazam', 'Set Number': '1', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Blastoise', 'Set Number': '2', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Chansey', 'Set Number': '3', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charizard', 'Set Number': '4', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Clefairy', 'Set Number': '5', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gyarados', 'Set Number': '6', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Hitmonchan', 'Set Number': '7', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machamp', 'Set Number': '8', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magneton', 'Set Number': '9', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Mewtwo', 'Set Number': '10', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoking', 'Set Number': '11', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ninetales', 'Set Number': '12', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwrath', 'Set Number': '13', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raichu', 'Set Number': '14', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Venusaur', 'Set Number': '15', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Zapdos', 'Set Number': '16', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Beedrill', 'Set Number': '17', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dragonair', 'Set Number': '18', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dugtrio', 'Set Number': '19', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electabuzz', 'Set Number': '20', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electrode', 'Set Number': '21', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgeotto', 'Set Number': '22', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Arcanine', 'Set Number': '23', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmeleon', 'Set Number': '24', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dewgong', 'Set Number': '25', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dratini', 'Set Number': '26', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': "Farfetch'd", 'Set Number': '27', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Growlithe', 'Set Number': '28', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Haunter', 'Set Number': '29', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ivysaur', 'Set Number': '30', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Jynx', 'Set Number': '31', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kadabra', 'Set Number': '32', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kakuna', 'Set Number': '33', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machoke', 'Set Number': '34', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magikarp', 'Set Number': '35', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magmar', 'Set Number': '36', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidorino', 'Set Number': '37', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwhirl', 'Set Number': '38', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Porygon', 'Set Number': '39', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raticate', 'Set Number': '40', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Seel', 'Set Number': '41', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Wartortle', 'Set Number': '42', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Abra', 'Set Number': '43', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bulbasaur', 'Set Number': '44', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Caterpie', 'Set Number': '45', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmander', 'Set Number': '46', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Diglett', 'Set Number': '47', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Doduo', 'Set Number': '48', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Drowzee', 'Set Number': '49', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gastly', 'Set Number': '50', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Koffing', 'Set Number': '51', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machop', 'Set Number': '52', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magnemite', 'Set Number': '53', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Metapod', 'Set Number': '54', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoran♂', 'Set Number': '55', 'Rarity': 'Common', 'Have': 'Yes', 'Grade': 'PSA 10'}
+{'Name': 'Onix', 'Set Number': '56', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgey', 'Set Number': '57', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pikachu', 'Set Number': '58', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwag', 'Set Number': '59', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ponyta', 'Set Number': '60', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Rattata', 'Set Number': '61', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Sandshrew', 'Set Number': '62', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Squirtle', 'Set Number': '63', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Starmie', 'Set Number': '64', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Staryu', 'Set Number': '65', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Tangela', 'Set Number': '66', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Voltorb', 'Set Number': '67', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Vulpix', 'Set Number': '68', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Weedle', 'Set Number': '69', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bill', 'Set Number': '70', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Removal', 'Set Number': '71', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Full Heal', 'Set Number': '72', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Maintenance', 'Set Number': '73', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'PlusPower', 'Set Number': '74', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Center', 'Set Number': '75', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Flute', 'Set Number': '76', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokedex', 'Set Number': '77', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Professor Oak', 'Set Number': '78', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Revive', 'Set Number': '79', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Potion', 'Set Number': '80', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Defender', 'Set Number': '81', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Retrieval', 'Set Number': '82', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Item Finder', 'Set Number': '83', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lass', 'Set Number': '84', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Breeder', 'Set Number': '85', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Scoop Up', 'Set Number': '86', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Energy Removal', 'Set Number': '87', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Double Colorless Energy', 'Set Number': '88', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fighting Energy', 'Set Number': '89', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fire Energy', 'Set Number': '90', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Grass Energy', 'Set Number': '91', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lightning Energy', 'Set Number': '92', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Psychic Energy', 'Set Number': '93', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Water Energy', 'Set Number': '94', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+
+Fossil Set List:
+{'Name': 'Alakazam', 'Set Number': '1', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Blastoise', 'Set Number': '2', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Chansey', 'Set Number': '3', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charizard', 'Set Number': '4', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Clefairy', 'Set Number': '5', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gyarados', 'Set Number': '6', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Hitmonchan', 'Set Number': '7', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machamp', 'Set Number': '8', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magneton', 'Set Number': '9', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Mewtwo', 'Set Number': '10', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoking', 'Set Number': '11', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ninetales', 'Set Number': '12', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwrath', 'Set Number': '13', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raichu', 'Set Number': '14', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Venusaur', 'Set Number': '15', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Zapdos', 'Set Number': '16', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Beedrill', 'Set Number': '17', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dragonair', 'Set Number': '18', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dugtrio', 'Set Number': '19', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electabuzz', 'Set Number': '20', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electrode', 'Set Number': '21', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgeotto', 'Set Number': '22', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Arcanine', 'Set Number': '23', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmeleon', 'Set Number': '24', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dewgong', 'Set Number': '25', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dratini', 'Set Number': '26', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': "Farfetch'd", 'Set Number': '27', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Growlithe', 'Set Number': '28', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Haunter', 'Set Number': '29', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ivysaur', 'Set Number': '30', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Jynx', 'Set Number': '31', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kadabra', 'Set Number': '32', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kakuna', 'Set Number': '33', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machoke', 'Set Number': '34', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magikarp', 'Set Number': '35', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magmar', 'Set Number': '36', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidorino', 'Set Number': '37', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwhirl', 'Set Number': '38', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Porygon', 'Set Number': '39', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raticate', 'Set Number': '40', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Seel', 'Set Number': '41', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Wartortle', 'Set Number': '42', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Abra', 'Set Number': '43', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bulbasaur', 'Set Number': '44', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Caterpie', 'Set Number': '45', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmander', 'Set Number': '46', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Diglett', 'Set Number': '47', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Doduo', 'Set Number': '48', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Drowzee', 'Set Number': '49', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gastly', 'Set Number': '50', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Koffing', 'Set Number': '51', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machop', 'Set Number': '52', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magnemite', 'Set Number': '53', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Metapod', 'Set Number': '54', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoran♂', 'Set Number': '55', 'Rarity': 'Common', 'Have': 'Yes', 'Grade': 'PSA 10'}
+{'Name': 'Onix', 'Set Number': '56', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgey', 'Set Number': '57', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pikachu', 'Set Number': '58', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwag', 'Set Number': '59', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ponyta', 'Set Number': '60', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Rattata', 'Set Number': '61', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Sandshrew', 'Set Number': '62', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Squirtle', 'Set Number': '63', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Starmie', 'Set Number': '64', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Staryu', 'Set Number': '65', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Tangela', 'Set Number': '66', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Voltorb', 'Set Number': '67', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Vulpix', 'Set Number': '68', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Weedle', 'Set Number': '69', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bill', 'Set Number': '70', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Removal', 'Set Number': '71', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Full Heal', 'Set Number': '72', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Maintenance', 'Set Number': '73', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'PlusPower', 'Set Number': '74', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Center', 'Set Number': '75', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Flute', 'Set Number': '76', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokedex', 'Set Number': '77', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Professor Oak', 'Set Number': '78', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Revive', 'Set Number': '79', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Potion', 'Set Number': '80', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Defender', 'Set Number': '81', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Retrieval', 'Set Number': '82', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Item Finder', 'Set Number': '83', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lass', 'Set Number': '84', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Breeder', 'Set Number': '85', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Scoop Up', 'Set Number': '86', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Energy Removal', 'Set Number': '87', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Double Colorless Energy', 'Set Number': '88', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fighting Energy', 'Set Number': '89', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fire Energy', 'Set Number': '90', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Grass Energy', 'Set Number': '91', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lightning Energy', 'Set Number': '92', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Psychic Energy', 'Set Number': '93', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Water Energy', 'Set Number': '94', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+
+Jungle Set List:
+{'Name': 'Alakazam', 'Set Number': '1', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Blastoise', 'Set Number': '2', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Chansey', 'Set Number': '3', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charizard', 'Set Number': '4', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Clefairy', 'Set Number': '5', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gyarados', 'Set Number': '6', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Hitmonchan', 'Set Number': '7', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machamp', 'Set Number': '8', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magneton', 'Set Number': '9', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Mewtwo', 'Set Number': '10', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoking', 'Set Number': '11', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ninetales', 'Set Number': '12', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwrath', 'Set Number': '13', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raichu', 'Set Number': '14', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Venusaur', 'Set Number': '15', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Zapdos', 'Set Number': '16', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Beedrill', 'Set Number': '17', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dragonair', 'Set Number': '18', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dugtrio', 'Set Number': '19', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electabuzz', 'Set Number': '20', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electrode', 'Set Number': '21', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgeotto', 'Set Number': '22', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Arcanine', 'Set Number': '23', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmeleon', 'Set Number': '24', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dewgong', 'Set Number': '25', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dratini', 'Set Number': '26', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': "Farfetch'd", 'Set Number': '27', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Growlithe', 'Set Number': '28', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Haunter', 'Set Number': '29', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ivysaur', 'Set Number': '30', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Jynx', 'Set Number': '31', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kadabra', 'Set Number': '32', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kakuna', 'Set Number': '33', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machoke', 'Set Number': '34', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magikarp', 'Set Number': '35', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magmar', 'Set Number': '36', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidorino', 'Set Number': '37', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwhirl', 'Set Number': '38', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Porygon', 'Set Number': '39', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raticate', 'Set Number': '40', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Seel', 'Set Number': '41', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Wartortle', 'Set Number': '42', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Abra', 'Set Number': '43', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bulbasaur', 'Set Number': '44', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Caterpie', 'Set Number': '45', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmander', 'Set Number': '46', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Diglett', 'Set Number': '47', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Doduo', 'Set Number': '48', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Drowzee', 'Set Number': '49', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gastly', 'Set Number': '50', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Koffing', 'Set Number': '51', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machop', 'Set Number': '52', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magnemite', 'Set Number': '53', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Metapod', 'Set Number': '54', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoran♂', 'Set Number': '55', 'Rarity': 'Common', 'Have': 'Yes', 'Grade': 'PSA 10'}
+{'Name': 'Onix', 'Set Number': '56', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgey', 'Set Number': '57', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pikachu', 'Set Number': '58', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwag', 'Set Number': '59', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ponyta', 'Set Number': '60', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Rattata', 'Set Number': '61', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Sandshrew', 'Set Number': '62', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Squirtle', 'Set Number': '63', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Starmie', 'Set Number': '64', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Staryu', 'Set Number': '65', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Tangela', 'Set Number': '66', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Voltorb', 'Set Number': '67', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Vulpix', 'Set Number': '68', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Weedle', 'Set Number': '69', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bill', 'Set Number': '70', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Removal', 'Set Number': '71', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Full Heal', 'Set Number': '72', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Maintenance', 'Set Number': '73', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'PlusPower', 'Set Number': '74', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Center', 'Set Number': '75', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Flute', 'Set Number': '76', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokedex', 'Set Number': '77', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Professor Oak', 'Set Number': '78', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Revive', 'Set Number': '79', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Potion', 'Set Number': '80', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Defender', 'Set Number': '81', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Retrieval', 'Set Number': '82', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Item Finder', 'Set Number': '83', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lass', 'Set Number': '84', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Breeder', 'Set Number': '85', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Scoop Up', 'Set Number': '86', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Energy Removal', 'Set Number': '87', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Double Colorless Energy', 'Set Number': '88', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fighting Energy', 'Set Number': '89', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fire Energy', 'Set Number': '90', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Grass Energy', 'Set Number': '91', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lightning Energy', 'Set Number': '92', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Psychic Energy', 'Set Number': '93', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Water Energy', 'Set Number': '94', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+
+Team Rocket Set List:
+{'Name': 'Alakazam', 'Set Number': '1', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Blastoise', 'Set Number': '2', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Chansey', 'Set Number': '3', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Charizard', 'Set Number': '4', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Clefairy', 'Set Number': '5', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Gyarados', 'Set Number': '6', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Hitmonchan', 'Set Number': '7', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Machamp', 'Set Number': '8', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Magneton', 'Set Number': '9', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Mewtwo', 'Set Number': '10', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Nidoking', 'Set Number': '11', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Ninetales', 'Set Number': '12', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Poliwrath', 'Set Number': '13', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Raichu', 'Set Number': '14', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Venusaur', 'Set Number': '15', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Zapdos', 'Set Number': '16', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Beedrill', 'Set Number': '17', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Dragonair', 'Set Number': '18', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Dugtrio', 'Set Number': '19', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Electabuzz', 'Set Number': '20', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Electrode', 'Set Number': '21', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pidgeotto', 'Set Number': '22', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Arcanine', 'Set Number': '23', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Charmeleon', 'Set Number': '24', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Dewgong', 'Set Number': '25', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Dratini', 'Set Number': '26', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': "Farfetch'd", 'Set Number': '27', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Growlithe', 'Set Number': '28', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Haunter', 'Set Number': '29', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Ivysaur', 'Set Number': '30', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Jynx', 'Set Number': '31', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Kadabra', 'Set Number': '32', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Kakuna', 'Set Number': '33', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Machoke', 'Set Number': '34', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Magikarp', 'Set Number': '35', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Magmar', 'Set Number': '36', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Nidorino', 'Set Number': '37', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Poliwhirl', 'Set Number': '38', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Porygon', 'Set Number': '39', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Raticate', 'Set Number': '40', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Seel', 'Set Number': '41', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Wartortle', 'Set Number': '42', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Abra', 'Set Number': '43', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Bulbasaur', 'Set Number': '44', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Caterpie', 'Set Number': '45', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Charmander', 'Set Number': '46', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Diglett', 'Set Number': '47', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Doduo', 'Set Number': '48', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Drowzee', 'Set Number': '49', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Gastly', 'Set Number': '50', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Koffing', 'Set Number': '51', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Machop', 'Set Number': '52', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Magnemite', 'Set Number': '53', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Metapod', 'Set Number': '54', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Nidoran♂', 'Set Number': '55', 'Rarity': 'Common', 'Have': 'Yes', 'Grade': None}
+{'Name': 'Onix', 'Set Number': '56', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pidgey', 'Set Number': '57', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pikachu', 'Set Number': '58', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Poliwag', 'Set Number': '59', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Ponyta', 'Set Number': '60', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Rattata', 'Set Number': '61', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Sandshrew', 'Set Number': '62', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Squirtle', 'Set Number': '63', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Starmie', 'Set Number': '64', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Staryu', 'Set Number': '65', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Tangela', 'Set Number': '66', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Voltorb', 'Set Number': '67', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Vulpix', 'Set Number': '68', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Weedle', 'Set Number': '69', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Bill', 'Set Number': '70', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Energy Removal', 'Set Number': '71', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Full Heal', 'Set Number': '72', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Maintenance', 'Set Number': '73', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'PlusPower', 'Set Number': '74', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pokémon Center', 'Set Number': '75', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pokémon Flute', 'Set Number': '76', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pokedex', 'Set Number': '77', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Professor Oak', 'Set Number': '78', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Revive', 'Set Number': '79', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Super Potion', 'Set Number': '80', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Defender', 'Set Number': '81', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Energy Retrieval', 'Set Number': '82', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Item Finder', 'Set Number': '83', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Lass', 'Set Number': '84', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Pokémon Breeder', 'Set Number': '85', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Scoop Up', 'Set Number': '86', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Super Energy Removal', 'Set Number': '87', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': None}
+{'Name': 'Double Colorless Energy', 'Set Number': '88', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': None}
+{'Name': 'Fighting Energy', 'Set Number': '89', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Fire Energy', 'Set Number': '90', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Grass Energy', 'Set Number': '91', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Lightning Energy', 'Set Number': '92', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Psychic Energy', 'Set Number': '93', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+{'Name': 'Water Energy', 'Set Number': '94', 'Rarity': 'Common', 'Have': 'NA', 'Grade': None}
+
+Gym Heroes Set List:
+{'Name': 'Alakazam', 'Set Number': '1', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Blastoise', 'Set Number': '2', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Chansey', 'Set Number': '3', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charizard', 'Set Number': '4', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Clefairy', 'Set Number': '5', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gyarados', 'Set Number': '6', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Hitmonchan', 'Set Number': '7', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machamp', 'Set Number': '8', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magneton', 'Set Number': '9', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Mewtwo', 'Set Number': '10', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoking', 'Set Number': '11', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ninetales', 'Set Number': '12', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwrath', 'Set Number': '13', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raichu', 'Set Number': '14', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Venusaur', 'Set Number': '15', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Zapdos', 'Set Number': '16', 'Rarity': 'Holo rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Beedrill', 'Set Number': '17', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dragonair', 'Set Number': '18', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dugtrio', 'Set Number': '19', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electabuzz', 'Set Number': '20', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Electrode', 'Set Number': '21', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgeotto', 'Set Number': '22', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Arcanine', 'Set Number': '23', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmeleon', 'Set Number': '24', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dewgong', 'Set Number': '25', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Dratini', 'Set Number': '26', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': "Farfetch'd", 'Set Number': '27', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Growlithe', 'Set Number': '28', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Haunter', 'Set Number': '29', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ivysaur', 'Set Number': '30', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Jynx', 'Set Number': '31', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kadabra', 'Set Number': '32', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Kakuna', 'Set Number': '33', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machoke', 'Set Number': '34', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magikarp', 'Set Number': '35', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magmar', 'Set Number': '36', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidorino', 'Set Number': '37', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwhirl', 'Set Number': '38', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Porygon', 'Set Number': '39', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Raticate', 'Set Number': '40', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Seel', 'Set Number': '41', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Wartortle', 'Set Number': '42', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Abra', 'Set Number': '43', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bulbasaur', 'Set Number': '44', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Caterpie', 'Set Number': '45', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Charmander', 'Set Number': '46', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Diglett', 'Set Number': '47', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Doduo', 'Set Number': '48', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Drowzee', 'Set Number': '49', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Gastly', 'Set Number': '50', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Koffing', 'Set Number': '51', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Machop', 'Set Number': '52', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Magnemite', 'Set Number': '53', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Metapod', 'Set Number': '54', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Nidoran♂', 'Set Number': '55', 'Rarity': 'Common', 'Have': 'Yes', 'Grade': 'PSA 10'}
+{'Name': 'Onix', 'Set Number': '56', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pidgey', 'Set Number': '57', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pikachu', 'Set Number': '58', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Poliwag', 'Set Number': '59', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Ponyta', 'Set Number': '60', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Rattata', 'Set Number': '61', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Sandshrew', 'Set Number': '62', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Squirtle', 'Set Number': '63', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Starmie', 'Set Number': '64', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Staryu', 'Set Number': '65', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Tangela', 'Set Number': '66', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Voltorb', 'Set Number': '67', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Vulpix', 'Set Number': '68', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Weedle', 'Set Number': '69', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Bill', 'Set Number': '70', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Removal', 'Set Number': '71', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Full Heal', 'Set Number': '72', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Maintenance', 'Set Number': '73', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'PlusPower', 'Set Number': '74', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Center', 'Set Number': '75', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Flute', 'Set Number': '76', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokedex', 'Set Number': '77', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Professor Oak', 'Set Number': '78', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Revive', 'Set Number': '79', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Potion', 'Set Number': '80', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Defender', 'Set Number': '81', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Energy Retrieval', 'Set Number': '82', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Item Finder', 'Set Number': '83', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lass', 'Set Number': '84', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Pokémon Breeder', 'Set Number': '85', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Scoop Up', 'Set Number': '86', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Super Energy Removal', 'Set Number': '87', 'Rarity': 'Rare', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Double Colorless Energy', 'Set Number': '88', 'Rarity': 'Uncommon', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fighting Energy', 'Set Number': '89', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Fire Energy', 'Set Number': '90', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Grass Energy', 'Set Number': '91', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Lightning Energy', 'Set Number': '92', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Psychic Energy', 'Set Number': '93', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+{'Name': 'Water Energy', 'Set Number': '94', 'Rarity': 'Common', 'Have': 'NA', 'Grade': 'NA'}
+
+Gym Challenge Set List:
