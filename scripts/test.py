@@ -4,10 +4,10 @@ import os
 # Add the root directory of the project to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 
-from src.google_sheets import get_sheet_data
+from src.google_sheets import get_set_data  # Correct import
 
 def test_google_sheets_connection():
-    data = get_sheet_data()
+    data = get_set_data()
     output = ""
     
     # Prepare the output based on the data fetched
@@ -29,4 +29,15 @@ def test_google_sheets_connection():
         print(f"Failed to write output: {e}")
 
 if __name__ == "__main__":
-    test_google_sheets_connection()
+    set_name = input("Enter the set name you want to fetch (leave blank to fetch all sets): ")
+    set_name = set_name.strip() if set_name else None
+
+    data = get_set_data(set_name)  # Correct function call
+    
+    if data:
+        for set_name, set_data in data.items():
+            print(f"\nData for set: {set_name}")
+            for card in set_data:
+                print(card)
+    else:
+        print("Failed to fetch data.")
