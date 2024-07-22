@@ -1,2 +1,3 @@
 # Ignore credentials.json file
 config/credentials.json
+config/settings.py

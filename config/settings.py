@@ -13,3 +13,6 @@ PRICE_THRESHOLD = {
     'week': 10.0,
     'month': 9.0
 }
+
+POKEMON_TCG_API_KEY = '7a6604c1-124a-47dc-8d6b-7a49897892ce'
+
