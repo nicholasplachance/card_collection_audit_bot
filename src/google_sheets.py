@@ -20,67 +20,62 @@ def get_sheet_data():
             print("No data found.")
             return None
 
-        # Extract headers
+        # Extract headers and data
         main_headers = [header.strip() for header in all_values[0]]
         sub_headers = [header.strip() for header in all_values[1]]
         data = all_values[2:]
-        
+
         # Print headers and first few rows of data for debugging
         print("Main headers found:", main_headers)
         print("Sub headers found:", sub_headers)
-        print("First few rows of data:", data[:5])
 
         # Define the required columns
         required_columns = ['Name', 'Set Number', 'Rarity', 'Have', 'Grade']
         
         # Dictionary to hold data for each set
         sets_data = {}
-        
-        # Iterate through the main headers to process each set
+
+        # Process each column in the main header to find the sets
         current_col = 0
+
         while current_col < len(main_headers):
-            # Get the name of the set
             set_name = main_headers[current_col]
-            if not set_name or 'Set List' not in set_name:
-                current_col += len(required_columns) + 1  # Skip to the next set
+
+            # If set_name does not include 'Set List', skip it
+            if 'Set List' not in set_name:
+                current_col += 1
                 continue
-            
-            # Determine the start and end indices for sub-headers and columns
-            start_col = current_col
-            end_col = start_col + len(required_columns)
-            if end_col > len(sub_headers):
-                end_col = len(sub_headers)
-            
-            # Extract sub-headers for this set
-            set_sub_headers = sub_headers[start_col:end_col]
-            
-            # Find indices of required columns in the sub-headers
+
+            # Determine the end column for this set
+            end_col = current_col + 1
+            while end_col < len(main_headers) and main_headers[end_col] == "":
+                end_col += 1
+
+            # Extract sub-headers and find indices of required columns
+            set_sub_headers = sub_headers[current_col:end_col]
             column_indices = {col: set_sub_headers.index(col) for col in required_columns if col in set_sub_headers}
-            
-            # Print column indices for debugging
+
             print(f"Processing set: {set_name}")
             print("Column indices for this set:", column_indices)
-            
-            # If we have valid column indices, process the data
+
             if column_indices:
                 set_data = []
                 for row in data:
-                    if len(row) > end_col:  # Check if row is long enough
+                    if len(row) > end_col:  # Ensure row is long enough
                         set_entry = {
                             col: row[column_indices.get(col, -1)] if column_indices.get(col, -1) != -1 else None
                             for col in required_columns
                         }
-                        # Remove entries where all fields are blank
                         if any(set_entry.values()):  # Keep entry if any value is non-empty
                             set_data.append(set_entry)
                 
                 sets_data[set_name] = set_data
-                print(f"Processed data for {set_name}: {set_data[:5]}")  # Print first 5 entries for each set
+                print(f"Processed data for {set_name}: {set_data[:5]}")
             else:
                 print(f"No valid column indices found for {set_name}")
             
             # Move to the next set
-            current_col = end_col + 1
+            current_col = end_col
         
         if not sets_data:
             print("No data processed for any sets.")
